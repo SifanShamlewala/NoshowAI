@@ -11,7 +11,7 @@ Prediction in Service-Based Organizations."*
 
 ## Installation
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/SifanShamlewala/NoshowAI
 cd noshow_app
 
 python3 -m venv .venv
